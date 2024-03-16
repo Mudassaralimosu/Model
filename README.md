@@ -2,7 +2,8 @@ Hi Aimen,
 I know fiverr takes commission from seller around 20% 
 I can pay you through payoneer , if that's okay for you ? 
 
-contact me : +918697857442
+contact me:
+whatsapp:  +918697857442,
 telegram : @Mosu25
 
 # Getting Started with Create React App
