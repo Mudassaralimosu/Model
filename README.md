@@ -1,3 +1,8 @@
+Hi Aimen,
+I know fiverr takes commission from seller around 20% 
+I can pay you through payoneer , if that's okay for you ? 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
